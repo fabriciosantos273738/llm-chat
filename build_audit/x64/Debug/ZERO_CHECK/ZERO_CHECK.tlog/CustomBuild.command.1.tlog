@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEW\LLM-CHAT\BUILD_AUDIT\CMAKEFILES\E829800CB7AD8A23E394311258CE9D1E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Matthew/llm-chat -BC:/Users/Matthew/llm-chat/build_audit --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Matthew/llm-chat/build_audit/llm-chat.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

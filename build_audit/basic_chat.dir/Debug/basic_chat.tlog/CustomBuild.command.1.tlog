@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEW\LLM-CHAT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Matthew/llm-chat -BC:/Users/Matthew/llm-chat/build_audit --check-stamp-file C:/Users/Matthew/llm-chat/build_audit/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
